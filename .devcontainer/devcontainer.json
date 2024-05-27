@@ -1,5 +1,8 @@
 {
-    "image": "gamecss/lollipop_buildenv:latest",
+    "build": {
+        "dockerfile": "./Dockerfile",
+        "context": "."
+    },
     "features": {
         "ghcr.io/devcontainers/features/common-utils:1": {
             "installZsh": "true",
