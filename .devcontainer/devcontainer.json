@@ -11,10 +11,6 @@
             "userGid": "1000",
             "upgradePackages": "true"
         },
-        "ghcr.io/devcontainers/features/git:1": {
-            "version": "latest",
-            "ppa": "true"
-        },
         "ghcr.io/devcontainers/features/sshd:1": {}
     },
     "remoteUser": "codespace"
