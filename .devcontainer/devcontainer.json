@@ -1,17 +1,21 @@
 {
     "build": {
-        "dockerfile": "./Dockerfile",
+        "dockerfile": "./Dockerfile.trusty",
         "context": "."
     },
     "features": {
-        "ghcr.io/devcontainers/features/common-utils:1": {
+        "ghcr.io/devcontainers/features/common-utils:2": {
             "installZsh": "true",
-            "username": "vscode",
-            "uid": "1000",
-            "gid": "1000",
+            "username": "codespace",
+            "userUid": "1000",
+            "userGid": "1000",
             "upgradePackages": "true"
+        },
+        "ghcr.io/devcontainers/features/git:1": {
+            "version": "latest",
+            "ppa": "true"
         },
         "ghcr.io/devcontainers/features/sshd:1": {}
     },
-    "remoteUser": "vscode"
+    "remoteUser": "codespace"
 }

@@ -1,0 +1,5 @@
+ARG VARIANT="trusty"
+FROM ubuntu:${VARIANT}
+USER root
+
+LABEL dev.containers.features="common"
