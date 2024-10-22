@@ -24,10 +24,3 @@ Welcome to my cropbook!
 ![IMG_6173](https://github.com/user-attachments/assets/3727615b-556d-468e-95a0-92cee9c3b8a8)
 ![IMG_6172](https://github.com/user-attachments/assets/bb2fa63b-571e-40be-a946-7dda3cc722a8)
 ![IMG_6158](https://github.com/user-attachments/assets/9fa30a4e-98f3-453d-ace5-ef18e26a0313)
-
-<details>
-<summary></summary>
-So my family thought that playing on the computer = giving up my learning. Then they stop me from using the computer, even if they play games on it.  
-Currently, I have to develop things on my server with 2GiB memory and 25GiB disk. And you know, it's impossible to compile AOSP on such computers.  
-I'll archive most of `android_*` things since I couldn’t develop them.  
-</details>
