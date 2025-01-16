@@ -1,4 +1,8 @@
-Welcome to my cropbook!  
+# [xunmod](https://github.com/xunmod)
+[My termux repo](https://repo.xunmod.news)  
+<details>
+<summary>click to see my cropbook</summary>
+  
 ![IMG_6182](https://github.com/user-attachments/assets/ed677b7a-15aa-4841-a744-30dcd71e007b)
 ![IMG_6181](https://github.com/user-attachments/assets/0f16b80e-3041-400e-91db-025e02c455bd)
 ![IMG_6187](https://github.com/user-attachments/assets/73754ebf-80bd-4b1f-86ab-036812fd63a7)
@@ -24,3 +28,5 @@ Welcome to my cropbook!
 ![IMG_6173](https://github.com/user-attachments/assets/3727615b-556d-468e-95a0-92cee9c3b8a8)
 ![IMG_6172](https://github.com/user-attachments/assets/bb2fa63b-571e-40be-a946-7dda3cc722a8)
 ![IMG_6158](https://github.com/user-attachments/assets/9fa30a4e-98f3-453d-ace5-ef18e26a0313)
+
+</details>
