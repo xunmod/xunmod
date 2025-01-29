@@ -1,5 +1,5 @@
 # [xunmod](https://github.com/xunmod)
-[My termux repo](https://repo.xunmod.news)  
+[My termux repo](https://xunmod.github.io/repo)  
 <details>
 <summary>click to see my cropbook</summary>
   
