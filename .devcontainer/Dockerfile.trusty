@@ -1,14 +1,4 @@
-FROM ubuntu:trusty
+FROM gamecss/lollipop_buildenv:latest
 USER root
 
 LABEL dev.containers.features="common"
-
-RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys F911AB184317630C59970973E363C90F8F1B6217 \
-    && echo "deb https://ppa.launchpadcontent.net/git-core/ppa/ubuntu trusty main" > /etc/apt/sources.list.d/git-core-ubuntu-ppa-trusty.list \
-    && export DEBIAN_FRONTEND=noninteractive \
-    && apt update \
-    && apt-get upgrade -y \
-    && apt-get install make python flex lib32z1 openjdk-7-jdk -y \
-    && apt-get autoremove -y \
-    && apt-get clean -y \
-    && rm -rf /var/lib/apt/lists/*
