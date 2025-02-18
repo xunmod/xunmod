@@ -1,17 +1,5 @@
 {
-    "build": {
-        "dockerfile": "./Dockerfile.trusty",
-        "context": "."
-    },
     "features": {
-        "ghcr.io/devcontainers/features/common-utils:2": {
-            "installZsh": "true",
-            "username": "codespace",
-            "userUid": "1000",
-            "userGid": "1000",
-            "upgradePackages": "true"
-        },
-        "ghcr.io/devcontainers/features/sshd:1": {}
-    },
-    "remoteUser": "codespace"
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    }
 }
